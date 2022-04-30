@@ -11,7 +11,7 @@ Takım 110
 
 - Bahadır Talha Çakıcı: Product Owner
 - Dilek Taylı: Scrum Master
-- Kaan Tokay/ Hilal Bıyık/ Şevval Törün: Team Member/Developer
+- Mehmet Kaan Tokay / Hilal Bıyık / Şevval Törün: Team Member/Developer
 
 ## Ürün İsmi
 
