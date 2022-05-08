@@ -39,7 +39,7 @@ Takım 110
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
+[Miro Backlog Board](https://trello.com/b/902OIAb1/scrum-board-110)
 
 ---
 
