@@ -74,14 +74,13 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da User Story'
 Alınan kararlar: İlk sprintte planan görevler başarı ile tamamlanmıştır.
 
 - **Sprint Retrospective:**
-  - Trello linki yukarıda eklenmiştir.
-  - Proje için puanlandırma ve görev dağılımları [Excel](https://onedrive.live.com/view.aspx?cid=e2384369a52e64c0&page=view&resid=E2384369A52E64C0!6437&parId=E2384369A52E64C0!6415&authkey=!ADiWO6CVscmVPZQ&app=Excel) dosyasında belirtilmiştir.
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
   - Kod hatalarına dikkat edilmelidir.
   - Unit test'ler için ayrılan efor/saat arttırılmalıdır.
 
--**Diğer Notlar**:
-- N/A
+- **Diğer Notlar**:
+  - [Trello](https://trello.com/b/902OIAb1/scrum-board-110) linki eklenmiştir.
+  - Proje için puanlandırma ve görev dağılımları [Excel](https://onedrive.live.com/view.aspx?cid=e2384369a52e64c0&page=view&resid=E2384369A52E64C0!6437&parId=E2384369A52E64C0!6415&authkey=!ADiWO6CVscmVPZQ&app=Excel) dosyasında belirtilmiştir.
 
 ---
 
