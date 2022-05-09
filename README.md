@@ -35,7 +35,7 @@ Takım 110
 
 - Gezmeye meraklılar
 - Turistik yerler hakkında bilgi öğrenmek isteyenler
-- 15 - 65 yaş arası kullanıcılar
+- 18 - 65 yaş arası kullanıcılar
 
 ## Product Backlog URL
 
