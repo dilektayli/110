@@ -17,7 +17,7 @@ Takım 110
 
 ## Ürün İsmi
 
---Travel App--
+BeeTourist
 
 ## Ürün Açıklaması
 
@@ -61,16 +61,14 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da User Story'
 - **Sprint board update**: Sprint board screenshotları:
 
 <img alt="Backlog 1" src="https://user-images.githubusercontent.com/77548014/167486419-b0ebb85a-d409-464d-94c1-e777af6e2fb3.png" width="600">
-
 <img alt="Backlog 2" src="https://user-images.githubusercontent.com/77548014/167486414-e5e7a719-a449-4509-9c35-2aac82772234.png" width="600">
    
 
 - **Ürün Durumu**: Ekran görüntüleri:
 <br>
-
- <img alt="ScreenShot1" src="https://user-images.githubusercontent.com/77548014/167485126-bd82eb33-fc17-424f-859e-462f7a85d515.png" width="220" >
+ <img alt="ScreenShot1" src="https://user-images.githubusercontent.com/77548014/167485126-bd82eb33-fc17-424f-859e-462f7a85d515.png" width="210">
  <img alt="ScreenShot2" src="https://user-images.githubusercontent.com/77548014/167494143-d194b9aa-ddbd-4c99-afe8-11fa17b8016b.png" width="230">
- <img alt="ScreenShot3" src="https://user-images.githubusercontent.com/77548014/167494152-63262555-8565-4709-9482-0fa34f16de0b.png" width="230" >
+ <img alt="ScreenShot3" src="https://user-images.githubusercontent.com/77548014/167494152-63262555-8565-4709-9482-0fa34f16de0b.png" width="230">
  
 
 - **Sprint Review**: 
