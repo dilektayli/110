@@ -112,7 +112,21 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da User Story'
 
 - **Ürün Durumu**: Ekran görüntüleri:
 <br>
-<img alt="ScreenShot1" src="https://user-images.githubusercontent.com/83818961/169712002-2869477a-aa19-46db-890c-262160d5d146.jpeg" width="210">
+<img alt="ScreenShot1" src="https://user-images.githubusercontent.com/83818961/169712002-2869477a-aa19-46db-890c-262160d5d146.jpeg" width="230">
+<img alt="ScreenShot2" src="https://user-images.githubusercontent.com/83818961/169712002-2869477a-aa19-46db-890c-262160d5d146.jpeg" width="230">
+<img alt="ScreenShot3" src="https://user-images.githubusercontent.com/83818961/169712018-a4727224-4f5f-4a05-8284-4bac2a386ff4.jpeg" width="230">
+<img alt="ScreenShot4" src="https://user-images.githubusercontent.com/83818961/169711858-5b70cbda-d768-4ad2-aec8-3dea165b013a.jpeg" width="230">
+<img alt="ScreenShot5" src="https://user-images.githubusercontent.com/83818961/169711881-52b4856b-b028-4062-be27-1ef21186a7bc.jpeg" width="230">
+<img alt="ScreenShot6" src="https://user-images.githubusercontent.com/83818961/169711896-bce2d7a0-6110-48c8-819f-0de381a45867.jpeg" width="230">
+<img alt="ScreenShot7" src="https://user-images.githubusercontent.com/83818961/169711899-05d638c9-c589-4856-a79d-f79916141cc6.jpeg" width="230">
+<img alt="ScreenShot8" src="https://user-images.githubusercontent.com/83818961/169711905-953cb921-abaf-4859-a876-19a68917adbe.jpeg" width="230">
+<img alt="ScreenShot9" src="https://user-images.githubusercontent.com/83818961/169711907-e74e4ecc-9f3f-45a5-b567-2ea4540bfcb4.jpeg" width="230">
+<img alt="ScreenShot10" src="https://user-images.githubusercontent.com/83818961/169711912-6bc63365-2a5f-4d86-94d0-599592ce2f1f.jpeg" width="230">
+<img alt="ScreenShot11" src="https://user-images.githubusercontent.com/83818961/169711919-62fd8839-147b-49ca-b0c0-4887a3605d94.jpeg" width="230">
+
+
+
+
 ![9 2](https://user-images.githubusercontent.com/83818961/169712002-2869477a-aa19-46db-890c-262160d5d146.jpeg)
 ![10](https://user-images.githubusercontent.com/83818961/169712012-7f018ea6-5e44-4bfa-b7c9-e9ed3ae636c6.jpeg)
 ![11](https://user-images.githubusercontent.com/83818961/169712018-a4727224-4f5f-4a05-8284-4bac2a386ff4.jpeg)
@@ -123,6 +137,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da User Story'
 ![6](https://user-images.githubusercontent.com/83818961/169711905-953cb921-abaf-4859-a876-19a68917adbe.jpeg)
 ![7](https://user-images.githubusercontent.com/83818961/169711907-e74e4ecc-9f3f-45a5-b567-2ea4540bfcb4.jpeg)
 ![8](https://user-images.githubusercontent.com/83818961/169711912-6bc63365-2a5f-4d86-94d0-599592ce2f1f.jpeg)
+
 ![9](https://user-images.githubusercontent.com/83818961/169711919-62fd8839-147b-49ca-b0c0-4887a3605d94.jpeg)
 
  
