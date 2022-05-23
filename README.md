@@ -106,6 +106,11 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da User Story'
 
 - **Sprint board update**: Sprint board screenshotları:
 
+<img alt="Backlog 1" src="https://user-images.githubusercontent.com/83818961/169816183-99e1b2c9-f0f5-4d42-852d-98e2111ee502.png" width="600">
+<img alt="Backlog 1" src="https://user-images.githubusercontent.com/83818961/169816212-f5b14a3a-6e40-4f90-ad0d-4a8e32cfbacc.png" width="600">
+
+
+
 <img alt="Backlog 1" src="https://user-images.githubusercontent.com/77548014/167486419-b0ebb85a-d409-464d-94c1-e777af6e2fb3.png" width="600">
 <img alt="Backlog 2" src="https://user-images.githubusercontent.com/77548014/167486414-e5e7a719-a449-4509-9c35-2aac82772234.png" width="600">
    
