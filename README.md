@@ -102,7 +102,8 @@ Alınan kararlar: İlk sprintte planan görevler başarı ile tamamlanmıştır.
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da User Story'ler Product Backlog içerisinde Description alanında yer almaktadır.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Belli aralıklarla Zoom üzerinden de toplantıların yapılmasına karar verilmiştir.Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:<br>
-[Sprint 1 Daily Scrum Chats]([https://1drv.ms/w/s!AsBkLqVpQzjisie3k3dSnOfjq3Q9?e=FiYBts](https://1drv.ms/w/s!AsBkLqVpQzjisik3lwLg1zuA3hnh?e=tBmfHA))
+[Sprint 2 Daily Scrum Chats]([https://1drv.ms/w/s!AsBkLqVpQzjisikcmoR_HmaNmWs_?e=UalCY5])
+
 
 - **Sprint board update**: Sprint board screenshotları:
 
