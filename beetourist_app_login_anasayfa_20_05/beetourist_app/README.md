@@ -1,6 +1,6 @@
 # beetourist_app
 
-BeeTourist App Login, SignUp, Welcome sayfaları.
+BeeTourist App Login, SignUp, Welcome, Anasayfa.
 
 ## Getting Started
 
