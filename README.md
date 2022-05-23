@@ -140,6 +140,7 @@ Alınan kararlar: İkinci sprintte alınan kararlar tamamlanmıştır.
 
 - **Sprint Retrospective:**
   - Takım işbirliği içerisinde hareket etmeye daha fazla özen göstermelidir.
+  - Tasarım biraz daha özenle hazırlanmalıdır.
 
 - **Diğer Notlar**:
   - [Trello](https://trello.com/b/902OIAb1/scrum-board-110) linki eklenmiştir.
