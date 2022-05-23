@@ -110,11 +110,6 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da User Story'
 <img alt="Backlog 1" src="https://user-images.githubusercontent.com/83818961/169816212-f5b14a3a-6e40-4f90-ad0d-4a8e32cfbacc.png" width="600">
 
 
-
-<img alt="Backlog 1" src="https://user-images.githubusercontent.com/77548014/167486419-b0ebb85a-d409-464d-94c1-e777af6e2fb3.png" width="600">
-<img alt="Backlog 2" src="https://user-images.githubusercontent.com/77548014/167486414-e5e7a719-a449-4509-9c35-2aac82772234.png" width="600">
-   
-
 - **Ürün Durumu**: Ekran görüntüleri:
 <br>
 <img alt="ScreenShot1" src="https://user-images.githubusercontent.com/83818961/169712002-2869477a-aa19-46db-890c-262160d5d146.jpeg" width="230">
@@ -128,6 +123,10 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da User Story'
 <img alt="ScreenShot9" src="https://user-images.githubusercontent.com/83818961/169711907-e74e4ecc-9f3f-45a5-b567-2ea4540bfcb4.jpeg" width="230">
 <img alt="ScreenShot10" src="https://user-images.githubusercontent.com/83818961/169711912-6bc63365-2a5f-4d86-94d0-599592ce2f1f.jpeg" width="230">
 <img alt="ScreenShot11" src="https://user-images.githubusercontent.com/83818961/169711919-62fd8839-147b-49ca-b0c0-4887a3605d94.jpeg" width="230">
+<img alt="ScreenShot12" src="https://user-images.githubusercontent.com/83818961/169816999-e7343202-3466-4548-aa8c-ade2d70c3fbb.png" width="230">
+<img alt="ScreenShot13" src="https://user-images.githubusercontent.com/83818961/169817013-f4624a6a-69ca-499c-aaa4-44dfdbd7e4d7.png" width="230">
+
+
 
 
 - **Sprint Review**: 
