@@ -95,14 +95,16 @@ Alınan kararlar: İlk sprintte planan görevler başarı ile tamamlanmıştır.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 140 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 80 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprintin 140 puan ile devam edilmesi gerektiğine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. 
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da User Story'ler Product Backlog içerisinde Description alanında yer almaktadır.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Belli aralıklarla Zoom üzerinden de toplantıların yapılmasına karar verilmiştir.Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:<br>
-[Sprint 1 Daily Scrum Chats]([https://1drv.ms/w/s!AsBkLqVpQzjisie3k3dSnOfjq3Q9?e=FiYBts](https://1drv.ms/w/s!AsBkLqVpQzjisik3lwLg1zuA3hnh?e=tBmfHA))
+[Sprint 2 Daily Scrum Chats](https://1drv.ms/w/s!AsBkLqVpQzjisikcmoR_HmaNmWs_?e=UalCY5)
+
+
 
 - **Sprint board update**: Sprint board screenshotları:
 
@@ -138,6 +140,7 @@ Alınan kararlar: İkinci sprintte alınan kararlar tamamlanmıştır.
 
 - **Sprint Retrospective:**
   - Takım işbirliği içerisinde hareket etmeye daha fazla özen göstermelidir.
+  - Tasarım biraz daha özenle hazırlanmalıdır.
 
 - **Diğer Notlar**:
   - [Trello](https://trello.com/b/902OIAb1/scrum-board-110) linki eklenmiştir.
