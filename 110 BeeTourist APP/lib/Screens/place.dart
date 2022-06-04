@@ -42,7 +42,7 @@ class Places with ChangeNotifier {
       genre: 'Göl',
     ),
     Place(
-      id: '5',
+      id: '6',
       title: 'Konya',
       thumbnailUrl: 'https://st2.depositphotos.com/2115371/9350/i/450/depositphotos_93503748-stock-photo-the-mevlana-square.jpg',
       shortDescription: 'Konya, tarihi ve kültür mirası ile tam bir açık hava müzesi. Hz. Mevlana'+'nın iklimini hissetmek, onu yaşamak isteyenler yolunu muhakkak bu kente düşürmeli.',
