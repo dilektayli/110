@@ -153,4 +153,17 @@ Alınan kararlar: İkinci sprintte alınan kararlar tamamlanmıştır.
 
 # Sprint 3
 
----
+- **Sprint Notları**:   User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 140 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprintin 140 puan ile devam edilmesi gerektiğine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. 
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da User Story'ler Product Backlog içerisinde Description alanında yer almaktadır.
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Belli aralıklarla Zoom üzerinden de toplantıların yapılmasına karar verilmiştir.Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:<br>
+[Sprint 3 Daily Scrum Chats](https://1drv.ms/w/s!AsBkLqVpQzjisit_6yc0d2SSzSOu?e=Yok4Jr)
+
