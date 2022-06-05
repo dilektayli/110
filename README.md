@@ -65,10 +65,18 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da User Story'
    
 
 - **Ürün Durumu**: Ekran görüntüleri:
+
+<table>
+  <tr>
+    <td>ScreenShot1</td>
+     <td>ScreenShot2</td>
+     <td>ScreenShot3</td>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/77548014/167485126-bd82eb33-fc17-424f-859e-462f7a85d515.png" width="275" ></td>
+    <td><img src="https://user-images.githubusercontent.com/77548014/167494143-d194b9aa-ddbd-4c99-afe8-11fa17b8016b.png" width="300" ></td>
+    <td><img src="https://user-images.githubusercontent.com/77548014/167494152-63262555-8565-4709-9482-0fa34f16de0b.png" width="300"></td>
+ </table>
 <br>
- <img alt="ScreenShot1" src="https://user-images.githubusercontent.com/77548014/167485126-bd82eb33-fc17-424f-859e-462f7a85d515.png" width="210">
- <img alt="ScreenShot2" src="https://user-images.githubusercontent.com/77548014/167494143-d194b9aa-ddbd-4c99-afe8-11fa17b8016b.png" width="230">
- <img alt="ScreenShot3" src="https://user-images.githubusercontent.com/77548014/167494152-63262555-8565-4709-9482-0fa34f16de0b.png" width="230">
  <img alt="ScreenShot4" src="https://user-images.githubusercontent.com/77548014/167496915-2836a9a9-5205-4300-bc58-ab76128ed454.jpeg" width="450">
 
  
