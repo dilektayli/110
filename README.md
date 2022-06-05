@@ -178,9 +178,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da User Story'
      <td>Login Page</td>
      <td>Profile Page</td>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/77548014/172071680-34bde4fc-1022-4bfc-8f28-9bb31784ede4.png" width="350" ></td>
-    <td><img src="https://user-images.githubusercontent.com/77548014/172071642-9a429aa1-fa38-4cfc-ad7c-348e00b8b70e.png" width="350" ></td>
-    <td><img src="https://user-images.githubusercontent.com/77548014/172071783-8a8b5ed3-e64a-4037-881d-3ada2560a720.png" width="350"></td>
+    <td><img src="https://user-images.githubusercontent.com/77548014/172071680-34bde4fc-1022-4bfc-8f28-9bb31784ede4.png" width="300" ></td>
+    <td><img src="https://user-images.githubusercontent.com/77548014/172071642-9a429aa1-fa38-4cfc-ad7c-348e00b8b70e.png" width="300" ></td>
+    <td><img src="https://user-images.githubusercontent.com/77548014/172071783-8a8b5ed3-e64a-4037-881d-3ada2560a720.png" width="300"></td>
  </table>
 
 <table>
@@ -190,23 +190,29 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da User Story'
      <td></td>
     
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/77548014/172071897-a708a206-0fa7-42be-b381-8c3007421f27.png" width="350"></td>
-    <td><img src="https://user-images.githubusercontent.com/77548014/172071981-2985efc6-cb79-4837-819a-5a925fe6faac.png" width="350"></td>
-    <td><img src="https://user-images.githubusercontent.com/77548014/172072015-f9f09d3a-7e2e-416c-bd70-46f90ab95049.png" width="350""></td>
+    <td><img src="https://user-images.githubusercontent.com/77548014/172071897-a708a206-0fa7-42be-b381-8c3007421f27.png" width="300"></td>
+    <td><img src="https://user-images.githubusercontent.com/77548014/172071981-2985efc6-cb79-4837-819a-5a925fe6faac.png" width="300"></td>
+    <td><img src="https://user-images.githubusercontent.com/77548014/172072015-f9f09d3a-7e2e-416c-bd70-46f90ab95049.png" width="300""></td>
  </table>
        
   <table>
   <tr>
     <td>Rehber Page</td>
-     <td>Rehber Profile</td>
+     <td>Rehber Profile Page</td>
      <td></td>
     
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/77548014/172072162-89ff0df1-4b19-4b08-bf87-b69244ffd53c.png" width="350"></td>
-    <td><img src="https://user-images.githubusercontent.com/77548014/172072245-827e9f33-40db-413c-be01-d0989440b82c.png" width="350"></td>
-    <td><img src="https://user-images.githubusercontent.com/77548014/172072328-9dbc7a43-5293-4204-8c2c-2e0ab8184d25.png" width="350""></td>
+    <td><img src="https://user-images.githubusercontent.com/77548014/172072162-89ff0df1-4b19-4b08-bf87-b69244ffd53c.png" width="300"></td>
+    <td><img src="https://user-images.githubusercontent.com/77548014/172072245-827e9f33-40db-413c-be01-d0989440b82c.png" width="300"></td>
+    <td><img src="https://user-images.githubusercontent.com/77548014/172072328-9dbc7a43-5293-4204-8c2c-2e0ab8184d25.png" width="300""></td>
  </table>
 
+ <table>
+  <tr>
+    <td></td>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/77548014/172072403-7d41cfc2-da5f-4e38-8bab-2b8aa783f1a9.png" width="300"></td>
+ </table>
 <br>
 
 
