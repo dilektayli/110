@@ -194,6 +194,18 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da User Story'
     <td><img src="https://user-images.githubusercontent.com/77548014/172071981-2985efc6-cb79-4837-819a-5a925fe6faac.png" width="350"></td>
     <td><img src="https://user-images.githubusercontent.com/77548014/172072015-f9f09d3a-7e2e-416c-bd70-46f90ab95049.png" width="350""></td>
  </table>
+       
+  <table>
+  <tr>
+    <td>Rehber Page</td>
+     <td></td>
+     <td></td>
+    
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/77548014/172072162-89ff0df1-4b19-4b08-bf87-b69244ffd53c.png" width="350"></td>
+    <td><img src="" width="350"></td>
+    <td><img src="" width="350""></td>
+ </table>
 
 <br>
 
