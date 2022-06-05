@@ -174,7 +174,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da User Story'
 
 - **Ürün Durumu**: Ekran görüntüleri:
 <br>
-<img alt="ScreenShot7" src="https://user-images.githubusercontent.com/77548014/172071019-015a0260-abe7-4901-a06b-b50494bf9ffe.png" width="230">
+<img alt="ScreenShotProfile" src="https://user-images.githubusercontent.com/77548014/172071019-015a0260-abe7-4901-a06b-b50494bf9ffe.png" width="230">
+<img alt="ScreenShotProfile" src="https://user-images.githubusercontent.com/77548014/172071119-91a7ccbf-2288-4f39-952c-6dbc1f39d8fd.png" width="230">
 
 
 
