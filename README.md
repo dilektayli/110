@@ -170,13 +170,32 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da User Story'
 
 - **Sprint board update**: Sprint board screenshotları:
 
-<img alt="Backlog 1" src="https://user-images.githubusercontent.com/77548014/172070185-13174728-59f6-43ce-8629-a3bcefa54e39.png" width="600">
 
 - **Ürün Durumu**: Ekran görüntüleri:
-<br>
-<img alt="ScreenShotProfile" src="https://user-images.githubusercontent.com/77548014/172071019-015a0260-abe7-4901-a06b-b50494bf9ffe.png" width="230">
-<img alt="ScreenShotProfile" src="https://user-images.githubusercontent.com/77548014/172071119-91a7ccbf-2288-4f39-952c-6dbc1f39d8fd.png" width="230">
+<table>
+  <tr>
+    <td>Sign Up Page</td>
+     <td>Login Page</td>
+     <td>Profile Page</td>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/77548014/172071680-34bde4fc-1022-4bfc-8f28-9bb31784ede4.png" width="350" ></td>
+    <td><img src="https://user-images.githubusercontent.com/77548014/172071642-9a429aa1-fa38-4cfc-ad7c-348e00b8b70e.png" width="350" ></td>
+    <td><img src="https://user-images.githubusercontent.com/77548014/172071783-8a8b5ed3-e64a-4037-881d-3ada2560a720.png" width="350"></td>
+ </table>
 
+<table>
+  <tr>
+    <td>Welcome Page</td>
+     <td>Home Page</td>
+     <td></td>
+    
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/77548014/172071897-a708a206-0fa7-42be-b381-8c3007421f27.png" width="350"></td>
+    <td><img src="https://user-images.githubusercontent.com/77548014/172071981-2985efc6-cb79-4837-819a-5a925fe6faac.png" width="350"></td>
+    <td><img src="https://user-images.githubusercontent.com/77548014/172072015-f9f09d3a-7e2e-416c-bd70-46f90ab95049.png" width="350""></td>
+ </table>
+
+<br>
 
 
 - **Sprint Review**: 
