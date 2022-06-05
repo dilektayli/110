@@ -167,3 +167,17 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da User Story'
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Belli aralıklarla Zoom üzerinden de toplantıların yapılmasına karar verilmiştir.Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:<br>
 [Sprint 3 Daily Scrum Chats](https://1drv.ms/w/s!AsBkLqVpQzjisit_6yc0d2SSzSOu?e=Yok4Jr)
 
+ **Sprint Review**: 
+Alınan kararlar: Son sprintte alınan kararlar tamamlanmıştır.
+
+- **Sprint Retrospective:**
+  - Takım işbirliği içerisinde hareket etmeye daha fazla özen göstermelidir.
+  - Tasarım biraz daha özenle hazırlanmalıdır.
+
+- **Diğer Notlar**:
+  - [Trello](https://trello.com/b/902OIAb1/scrum-board-110) linki eklenmiştir.
+  - Proje için puanlandırma ve görev dağılımları [Excel](https://onedrive.live.com/view.aspx?cid=e2384369a52e64c0&page=view&resid=E2384369A52E64C0!6437&parId=E2384369A52E64C0!6415&authkey=!ADiWO6CVscmVPZQ&app=Excel) dosyasında belirtilmiştir.
+  - [Figma](https://www.figma.com/file/aodLpgvQRaSuplZQZQJK8o/Travel-App?node-id=0%3A1) tasarımı burada yapılmıştır. Gerekli iyileştirmeler yapılacaktır.
+
+
+
