@@ -215,9 +215,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da User Story'
      <td></td>
     
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/77548014/172071897-a708a206-0fa7-42be-b381-8c3007421f27.png" width="300"></td>
+    <td><img src="https://user-images.githubusercontent.com/77548014/172071897-a708a206-0fa7-42be-b381-8c3007421f27.png" width="285"></td>
     <td><img src="https://user-images.githubusercontent.com/77548014/172071981-2985efc6-cb79-4837-819a-5a925fe6faac.png" width="300"></td>
-    <td><img src="https://user-images.githubusercontent.com/77548014/172072015-f9f09d3a-7e2e-416c-bd70-46f90ab95049.png" width="300""></td>
+    <td><img src="https://user-images.githubusercontent.com/77548014/172072015-f9f09d3a-7e2e-416c-bd70-46f90ab95049.png" width="290""></td>
  </table>
        
   <table>
