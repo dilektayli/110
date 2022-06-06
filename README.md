@@ -9,11 +9,11 @@ Takım 110
 
 ## Takım Elemanları
 
-- [Bahadır Talha Çakıcı:](https://www.linkedin.com/in/bahadirtalha/)  Product Owner
+
+- [Hilal Bıyık:](https://www.linkedin.com/in/hilalbıyık/) Product Owner
 - [Dilek Taylı:](https://www.linkedin.com/in/dilek-taylı-196022227/) Scrum Master
-- [Hilal Bıyık:](https://www.linkedin.com/in/hilalbıyık/) Team Member/Developer
 - [Mehmet Kaan Tokay:](https://www.linkedin.com/in/mehmet-kaan-tokay/) Team Member/Developer
-- [ Şevval Törün: ](https://www.linkedin.com/in/şevvaltörün/) Team Member/Developer
+
 
 ## Ürün İsmi
 
@@ -253,7 +253,5 @@ Alınan kararlar: Son sprintte alınan kararlar tamamlanmıştır.
 - **Diğer Notlar**:
   - [Trello](https://trello.com/b/902OIAb1/scrum-board-110) linki eklenmiştir.
   - Proje için puanlandırma ve görev dağılımları [Excel](https://onedrive.live.com/view.aspx?cid=e2384369a52e64c0&page=view&resid=E2384369A52E64C0!6437&parId=E2384369A52E64C0!6415&authkey=!ADiWO6CVscmVPZQ&app=Excel) dosyasında belirtilmiştir.
-  - [Figma](https://www.figma.com/file/aodLpgvQRaSuplZQZQJK8o/Travel-App?node-id=0%3A1) tasarımı burada yapılmıştır. Gerekli iyileştirmeler yapılacaktır.
-
-
+ 
 
